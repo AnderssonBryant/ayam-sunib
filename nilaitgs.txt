@@ -1,0 +1,15 @@
+2301851641;Sofie Adira Chrysanthia;Algorithm & Programming;81;
+2301888888;Hocky Harijanto;Program Design Method;77;
+2301811111;Jennifer Angelina Dhalimartono;Algorithm & Programming;90;
+2301849265;Vivian Justiana;Algorithm & Programming;20;
+2301888888;Hocky Harijanto;Algorithm & Programming;100;
+2301811111;Jennifer Angelina Dhalimartono;Linear Algebra;100;
+2301811111;Jennifer Angelina Dhalimartono;Program Design Method;100;
+2301848136;Cecilia Madeline;Algorithm & Programming;0;
+2301822222;Bryant Anderson;Program Design Method;79;
+2301822222;Bryant Anderson;Algorithm & Programming;85;
+2301851641;Sofie Adira Chrysanthia;Program Design Method;37;
+2301851641;Sofie Adira Chrysanthia;Linear Algebra;45;
+1234512345;Shalomita;Algorithm & Programming;95;
+1234512345;Shalomita;Program Design Method;79;
+1234512345;Shalomita;Linear Algebra;90;
